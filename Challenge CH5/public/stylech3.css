@@ -1,0 +1,283 @@
+/* Nav Bar */
+.navbar-brand {
+  font-size: 24px;
+  color: #f5c906;
+}
+
+/* Desktop Version*/
+@media (min-width: 576px) {
+  .navbar-link {
+    font-size: 12px;
+  }
+}
+
+/*Jumbotron -2*/
+.jumbotron-1 {
+  background-image: url(./assets/main-bg.jpg);
+  background-size: cover;
+  height: 800;
+  text-align: center;
+  color: white;
+}
+
+.display-1 {
+  font-size: 40;
+  font-family: Verdana;
+  margin-bottom: 200px;
+}
+.jumbotron-1.display-2 {
+  font-size: 40;
+  font-family: Verdana;
+}
+.jumbotron-1.lead-1 {
+  font-size: 0, 25em;
+}
+/* Halaman ke-2*/
+.jumbotron-2 {
+  background-image: url(./assets/the-games-bg.jpg);
+  background-size: cover;
+  height: 841;
+
+  font-family: Arial;
+}
+.display-3 {
+  color: black;
+}
+.display-4 {
+  color: white;
+  font-size: 24;
+}
+.lead-4 {
+  color: white;
+  font-size: 56;
+}
+.display-5 {
+  margin-top: 25%;
+  margin-left: auto;
+}
+/* Jumbotraon-3 */
+.jumbotron-3 {
+  background-image: url(./assets/features.jpg);
+  background-size: cover;
+  height: 900;
+  color: white;
+}
+.display-6 {
+  color: black;
+  margin-bottom: 200px;
+}
+.display-7 {
+  margin-left: 700px;
+  font-size: 20;
+  font-family: Verdana;
+}
+.lead-2 {
+  font-size: 56;
+  margin-left: 700px;
+  margin-bottom: 100px;
+}
+.display-8 {
+  font-size: 25;
+  margin-left: 750px;
+  color: orange;
+}
+.lead-3 {
+  font-size: 16;
+  margin-left: 750px;
+}
+.display-9 {
+  font-size: 25;
+  margin-left: 750px;
+  color: orange;
+}
+.display-10 {
+  font-size: 25;
+  margin-left: 750px;
+  color: orange;
+}
+
+/* Jumbotron 4 */
+.Jumbotron-4 {
+  background-image: url(./assets/requirements.png);
+  background-size: cover;
+  height: 960;
+  color: white;
+}
+.display-11 {
+  margin-bottom: 100px;
+}
+.display-12 {
+  font-size: 12;
+  font-weight: 100;
+  font-family: Arial;
+  text-align: center;
+  color: white;
+  margin-bottom: 150px;
+}
+.display-13 {
+  font-weight: 100;
+  font-family: Arial;
+  color: white;
+  margin-left: 50px;
+  margin-bottom: 50px;
+}
+.display-14 {
+  font-size: 24;
+  font-family: arial;
+  color: orange;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
+.lead-5 {
+  font-size: 20;
+  font-family: Arial;
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
+.display-15 {
+  font-size: 24;
+  font-family: arial;
+  color: orange;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
+.lead-6 {
+  font-size: 20;
+  font-family: Arial;
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
+.display-16 {
+  font-size: 24;
+  font-family: arial;
+  color: orange;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
+.lead-7 {
+  font-size: 20;
+  font-family: Arial;
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
+.display-17 {
+  font-size: 24;
+  font-family: arial;
+  color: orange;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
+.lead-8 {
+  font-size: 20;
+  font-family: Arial;
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
+.display-18 {
+  font-size: 24;
+  font-family: arial;
+  color: orange;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
+.lead-9 {
+  font-size: 20;
+  font-family: Arial;
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
+
+/* JUmbotron-5 */
+.jumbotron-5 {
+  background-image: url(./assets/image\ 1.png);
+  background-size: cover;
+  height: 960;
+}
+.display-19 {
+  color: black;
+}
+.display-20 {
+  font-size: 56;
+  color: white;
+}
+.lead-10 {
+  font-size: 18;
+  color: white;
+}
+
+.lingkaran1 {
+  width: 55px;
+  height: 50px;
+  background-color: orange;
+  border-radius: 100%;
+  margin-right: 100px;
+}
+.gambar {
+  width: 50px;
+  height: 50px;
+  background-image: url(./assets/Evan\ Lahti.png);
+  border-radius: 100%;
+}
+.display-21 {
+  color: orange;
+  font-size: 24px;
+}
+.lead-11 {
+  color: white;
+  font: size 18px;
+}
+.display-22 {
+  color: white;
+  font-size: 16px;
+}
+.card-text {
+  font-size: 14px;
+  color: gray;
+}
+.display-23 {
+  bottom: 30px;
+  left: 50px;
+}
+/* Jumbotron-6 */
+.jumbotron-6 {
+  background-color: black;
+  background-size: cover;
+  height: 960;
+}
+.display-24 {
+  margin-bottom: 30px;
+}
+.display-25 {
+  font-size: 24px;
+  font-family: Arial;
+  color: white;
+}
+.display-26 {
+  font-size: 65px;
+  font-family: Arial;
+  color: white;
+}
+.display-27 {
+  font-size: 13px;
+  font-family: Arial;
+  color: white;
+  margin-bottom: 30px;
+}
+.form-label {
+  color: white;
+}
