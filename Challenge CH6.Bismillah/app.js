@@ -48,7 +48,7 @@ app.post("/Users/register", (req, res) => {
     password: req.body.password,
     password2: req.body.password2,
   })
-    .then((Use_) => {
+    .then(() => {
       res.send("Article berhasil dibuat");
       res.status(201).json(article);
     })
